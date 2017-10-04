@@ -1,0 +1,22 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "Learning node and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALucking1/express-workshop.git"
+  },
+  "author": "Anna Lucking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALucking1/express-workshop/issues"
+  },
+  "homepage": "https://github.com/ALucking1/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
